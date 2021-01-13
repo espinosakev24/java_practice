@@ -1,4 +1,4 @@
-Contains simple exercise for strengthen java knowledge
+Contains simple exercises for strengthen java knowledge
 
 # Java practice
 
